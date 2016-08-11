@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-plugin-example.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-plugin-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_main.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module1/module1_test.iml" group="module1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module2/module2.iml" filepath="$PROJECT_DIR$/.idea/modules/module2/module2.iml" group="module2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module2/module2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module2/module2_main.iml" group="module2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module2/module2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module2/module2_test.iml" group="module2" />
+    </modules>
+  </component>
+</project>

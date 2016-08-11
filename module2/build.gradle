@@ -1,0 +1,11 @@
+group 'bar.hacking.kotlinpluginexample.module2'
+version '0.1.0-SNAPSHOT'
+
+apply plugin: 'kotlin'
+apply plugin: 'application'
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+}
+
+mainClassName = "bar.hacking.kotlinpluginexample.module2.MainKt"
